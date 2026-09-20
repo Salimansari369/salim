@@ -39,21 +39,6 @@
 
 ---
 
-# ✈️ AIR COMBAT: GITHUB JET HEATMAP
-
-<div align="center">
-
-### 🚀 Fighter Jet Interceptor Flying Over Real-Time Contribution Grid
-> *A supersonic stealth jet patrols the commit calendar, targeting and blasting high-impact build days with kinetic energy pulses!*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Salimansari369/SalimAnsari369/main/dist/github-jet.svg" alt="GitHub Jet Heatmap" width="100%" />
-</p>
-
-</div>
-
----
-
 # 👨‍💻 About Me & Academic Profile
 
 <table>
@@ -219,6 +204,16 @@ Hi, I'm **Salim Ansari**. I build things that sit somewhere between machine lear
 
 <!-- 3D isometric calendar -->
 <img src="assets/metrics.isocalendar.svg" width="92%" alt="3D isometric contribution calendar">
+
+<br><br>
+
+<!-- ROCKET / JET HEATMAP GAME (REPLACING THE SNAKE GAME) -->
+### 🚀 Supersonic Jet Heatmap Interceptor
+> *A supersonic stealth jet patrols the real contribution grid, blasting high-velocity build days with laser & kinetic pulses!*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Salimansari369/SalimAnsari369/main/dist/github-jet.svg" alt="GitHub Jet Heatmap" width="100%" />
+</p>
 
 </div>
 
