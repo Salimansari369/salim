@@ -418,10 +418,8 @@ while (alive) {
 
 <br><br>
 
-*"Great engineers don't just write code; they design systems that think, scale, and endure."* ⚡
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,50:39D353,100:00F5D4&height=120&section=footer" width="100%"/>
+<p align="center">
+  <img src="assets/footer-banner.png" width="100%" alt="Great engineers don't just write code; they design systems that think, scale, and endure." />
+</p>
 
 </div>
