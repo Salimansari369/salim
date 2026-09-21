@@ -2,7 +2,7 @@
 
 <!-- HERO BANNER -->
 <a href="https://github.com/Salimansari369">
-  <img src="assets/banner.jpg" width="100%" alt="Salim Ansari — AI/ML Systems Architect" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.8);" />
+  <img src="assets/banner.png" width="100%" alt="Salim Ansari — AI/ML Systems Architect" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.8);" />
 </a>
 
 <br><br>
